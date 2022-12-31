@@ -1,8 +1,5 @@
 [package]
 name = "area-triangulo"
 version = "0.1.0"
-edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+authors = ["Rust Glomba de Souza"]
+description = "Calculadora de área de um triângulo por linha de comando"

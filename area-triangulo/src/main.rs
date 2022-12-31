@@ -4,6 +4,8 @@ use std::io; //importa a crate standard e especifica o módulo io
 fn main(){
     //Apresentação do programa
     println!("Bem-Vindo a calculadora de área de um triângulo.");
+    println!("Para utilizar basta informar na sequência o valor da base e depois o valor da altura do triângulo.");
+    println!("Após inseridos o programa efetuará o cálculo e mostrará o resultado e depois se encerrá.");
     //Entrada do valor da base
     println!("Informe o valor da base:"); //Exibe mensagem
 
@@ -22,11 +24,11 @@ fn main(){
 
     //Operação de cálculo
     //Converte as entradas em número
-    let b: i32 = b_input.trim().parse().expect("Falha na leitura da entrada.");
-    let h: i32 = h_input.trim().parse().expect("Falha na leitura da entrada.");
+    let b: u32 = b_input.trim().parse().expect("Digite apenas números positivos.");
+    let h: u32 = h_input.trim().parse().expect("Digite apenas números positivos.");
     //Efetua o cálculo da área
     let area_triangulo = (b * h) / 2;
-    println!("O resultado é: {}", area_triangulo);
-    println!("Fim do programa.")
+    println!("A área do triângulo é: {}", area_triangulo);
+    println!("Fim do programa. Obrigado por usar nossa calculadora.")
 
 }
