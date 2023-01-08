@@ -1,0 +1,41 @@
+[33mcommit da4182b46ec77fbbcb53f81d58c954dd9be57904[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Rust Glomba de Souza <rust.glomba@gmail.com>
+Date:   Sun Jan 8 19:44:49 2023 -0300
+
+    Atualiado repositório
+
+[33mcommit 0565556fe07e897c959c6abf5058b49309bc5cb3[m
+Author: Rust Glomba de Souza <111472294+rtwander@users.noreply.github.com>
+Date:   Sun Jan 8 17:59:49 2023 -0300
+
+    Added fluxograma_calc_area_triangulo
+
+[33mcommit 4f4d81bf058a56341805d992d60bf6b231b178fa[m
+Author: Rust Glomba de Souza <111472294+rtwander@users.noreply.github.com>
+Date:   Sun Jan 8 17:49:45 2023 -0300
+
+    Update Untitled Diagram.drawio
+
+[33mcommit c1cb7963bd6a9589e93adbad2e13761dc9c2d04e[m
+Author: Rust Glomba de Souza <111472294+rtwander@users.noreply.github.com>
+Date:   Sun Jan 8 17:48:06 2023 -0300
+
+    Adicionado Fluxograma para calculadora da àrea de um triângulo
+
+[33mcommit 2be031b4b92aefc6ea03920e0e275b72c76c5eb3[m
+Author: Rust Glomba de Souza <rust.glomba@gmail.com>
+Date:   Sat Dec 31 02:09:49 2022 -0300
+
+    Calculadora area do triangulo 0.1.0
+
+[33mcommit 4d527e04e6ba3467d782a15bcc1f67dfe88f6d81[m
+Author: Rust Glomba de Souza <111472294+rtwander@users.noreply.github.com>
+Date:   Fri Dec 30 03:40:47 2022 -0300
+
+    Create README.md
+
+[33mcommit 0d965a34875c43160a9338473edd0a46bbc1e264[m
+Author: Rust Glomba de Souza <rust.glomba@gmail.com>
+Date:   Fri Dec 30 03:38:54 2022 -0300
+
+    Primeiro commit
