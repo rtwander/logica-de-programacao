@@ -1,0 +1,1 @@
+ALTER TABLE vendas ADD CHECK (venda_total > 0);

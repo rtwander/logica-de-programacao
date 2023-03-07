@@ -1,0 +1,17 @@
+ALTER TABLE mesas
+ALTER COLUMN ID SET DEFAULT NEXTVAL('mesa_id_seq');
+
+ALTER TABLE vendas
+ALTER COLUMN ID SET DEFAULT NEXTVAL('vendas_id_seq');
+
+ALTER TABLE itens_vendas
+ALTER COLUMN ID SET DEFAULT NEXTVAL('itens_vendas_id_seq');
+
+ALTER TABLE produtos
+ALTER COLUMN ID SET DEFAULT NEXTVAL('produtos_id_seq');
+
+ALTER TABLE funcionarios
+ALTER COLUMN ID SET DEFAULT NEXTVAL('funcionario_id_seq');
+
+ALTER TABLE comissoes
+ALTER COLUMN ID SET DEFAULT NEXTVAL('comissoes_id_seq');
